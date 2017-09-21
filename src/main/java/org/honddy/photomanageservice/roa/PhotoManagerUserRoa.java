@@ -1,6 +1,5 @@
-package org.honddy.photomanage.roa;
+package org.honddy.photomanageservice.roa;
 
-import org.glassfish.jersey.internal.inject.Custom;
 import org.springframework.stereotype.Component;
 
 import javax.ws.rs.*;

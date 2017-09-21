@@ -1,4 +1,4 @@
-package org.honddy.photomanage.application;
+package org.honddy.photomanageservice.application;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;

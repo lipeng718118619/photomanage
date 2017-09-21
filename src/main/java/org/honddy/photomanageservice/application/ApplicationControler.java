@@ -1,4 +1,4 @@
-package org.honddy.photomanage.application;
+package org.honddy.photomanageservice.application;
 
 import org.codehaus.jackson.jaxrs.JacksonJsonProvider;
 import org.glassfish.jersey.server.ResourceConfig;

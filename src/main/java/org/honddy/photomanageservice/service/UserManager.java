@@ -1,4 +1,4 @@
-package org.honddy.photomanage.service;
+package org.honddy.photomanageservice.service;
 
 /**
  * user manager interface
